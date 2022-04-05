@@ -1,3 +1,8 @@
+# Starlight Postal fork info
+#### Note: this fork will not work without [enabling Unity's new input system](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.3/manual/Installation.html)
+### Why was this fork made?
+This fork was made after migrating our game to Unity's new input system and realizing that there are extra steps to get this debug console package to work. Instead of doing these changes in our project, we opted to make a fork that does the required changes externally.
+
 # In-game Debug Console for Unity 3D
 
 <img height="235" src="Images/1.png" alt="screenshot" /> <img height="235" src="Images/2.png" alt="screenshot2" />
